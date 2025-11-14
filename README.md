@@ -1,2 +1,13 @@
-# WanderLust_AdarshSinghTomar-23BCS11681-_AnmolPreetSingh-23BCS11616-
-WanderLust is a full-stack web application inspired by Airbnb, allowing users to search for stays, book properties, and enable hosts to upload and manage their own rental listings. It provides secure authentication, dynamic property management, booking functionality, and a complete review system. All data is stored using MongoDB.
+## About
+WanderLust is a full-stack web application where users can find and book short-term stays and hosts can list properties with pricing and availability. Guests can leave feedback and ratings. The app uses MongoDB for persistent storage.
+
+## Authors
+- Adarsh Singh Tomar
+- Anmolpreet
+
+## Tech stack
+Frontend: React (or your chosen stack)
+Backend: Node.js + Express
+Database: MongoDB (Mongoose)
+Authentication: JWT
+Image storage: Cloudinary / S3 / GridFS (as configured)
